@@ -1,0 +1,16 @@
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\Practical_Assignment_OOP_4_Random.csprojAssemblyReference.cache
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\Practical_Assignment_OOP_4_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\Practical_Assignment_OOP_4_Random.AssemblyInfoInputs.cache
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\Practical_Assignment_OOP_4_Random.AssemblyInfo.cs
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\Practical_Assignment_OOP_4_Random.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\bin\Debug\net5.0\Practical_Assignment_OOP_4_Random.exe
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\bin\Debug\net5.0\Practical_Assignment_OOP_4_Random.deps.json
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\bin\Debug\net5.0\Practical_Assignment_OOP_4_Random.runtimeconfig.json
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\bin\Debug\net5.0\Practical_Assignment_OOP_4_Random.runtimeconfig.dev.json
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\bin\Debug\net5.0\Practical_Assignment_OOP_4_Random.dll
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\bin\Debug\net5.0\ref\Practical_Assignment_OOP_4_Random.dll
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\bin\Debug\net5.0\Practical_Assignment_OOP_4_Random.pdb
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\Practical_Assignment_OOP_4_Random.dll
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\ref\Practical_Assignment_OOP_4_Random.dll
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\Practical_Assignment_OOP_4_Random.pdb
+C:\Users\Aivar\Practical_Assignment_OOP_4_Random\obj\Debug\net5.0\Practical_Assignment_OOP_4_Random.genruntimeconfig.cache
